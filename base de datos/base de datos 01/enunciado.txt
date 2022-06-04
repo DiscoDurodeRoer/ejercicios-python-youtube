@@ -1,0 +1,1 @@
+1. Conectar python y mysql
