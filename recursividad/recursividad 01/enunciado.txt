@@ -1,0 +1,5 @@
+1. Sacar la suma de 1 al numero dado. Si nos dan el 5, devolvera un 5+4+3+2+1 = 15
+
+2. Sacar el factorial de un numero
+
+3. Recorrer una lista de forma recursiva.
