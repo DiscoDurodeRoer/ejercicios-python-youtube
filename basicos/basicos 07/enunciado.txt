@@ -1,0 +1,15 @@
+19. Pintar una escalera con *
+
+*
+**
+***
+****
+*****
+
+20. Pintar un cuadrado con *
+
+* * * * *
+*       *
+*       *
+*       *
+* * * * *

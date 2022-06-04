@@ -1,0 +1,9 @@
+23. Escribe un programa de un juego de dados. El juego permite jugar a dos jugadores y consiste en implementar la siguiente dinámica:
+
+1. Se lanza un dado, y el número que sale es el objetivo de la partida.
+
+2. Por orden, los dos jugadores lanzan dos dados cada uno. Gana la partida el jugador que la suma de los dados que ha lanzado coincide con el objetivo. Podemos ganar los dos, uno o ninguno de los jugadores.
+
+3. El juego finaliza cuando un jugador gana 2 partidas. El programa debe implementar el juego descrito y cada partida, el programa pregunta si se desea continuar o parar el juego.
+
+El juego finaliza cuando uno de los dos jugadores gana o bien cuando se indica que no se quiere jugar más. La visualización debe ser como la que se muestra a continuación, tenga en cuenta que el programa al principio pide el nombre de los dos jugadores y muestra la información partida a partida indicando el número de partida, el objetivo de la partida, qué dados han sacado cada uno los jugadores, quien gana la partida y al final del juego indica quién ha ganado el juego y cuántas partidas se han jugado.

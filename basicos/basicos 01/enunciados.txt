@@ -1,0 +1,6 @@
+1. Imprimir "Hola mundo" por pantalla
+
+2. Crear dos variables númericas, sumarlas y mostrar el resultado
+
+3. Mostrar el precio del IVA de un producto con un valor de 100 y su precio final
+

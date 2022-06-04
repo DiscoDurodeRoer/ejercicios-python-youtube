@@ -1,0 +1,21 @@
+24. Escribe un programa que dibuje una peine de tamaño N. El tamaño debe ser un valor positivo impar. Características del peine:
+
+ - Debe tener una altura de N filas.
+ - Todas las filas deben tener una anchura también de N.
+ - Todas las filas impares deben usar el carácter = y al final mostrar el número de la fila. El número de la fila que aparece en el dibujo debe tener sólo un dígito, en cuanto supera el valor de 9 se iniciará nuevamente por 1.
+ - Las filas pares deben usar el carácter blanco y al final el carácter +
+ - Una vez finalizado el gráfico debe mostrarse en pantalla el número de caracteres que se han usado para hacer el gráfico, concretamente el número de caracteres diferentes a blanco que se han usado para hacer el dibujo.
+
+Nota: Al inicio hay que hacer la comprobación en la entrada de datos, asegurando que el número es positivo y impar. El programa insistirá hasta obtener el número con estas propiedades.
+
+Ejemplo si escribimos 9:
+
+========1
+        +
+========3
+        +
+========5
+        +
+========7
+        +
+========9

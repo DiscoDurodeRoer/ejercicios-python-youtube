@@ -1,0 +1,6 @@
+ 
+ 4. De dos números, saber cual es el mayor.
+
+ 5. Crea una variable númerica y si esta entre 0 y 10, mostrar un mensaje indicandolo.
+
+ 6. Añadir al anterior ejercicio, que si esta entre 11 y 20, muestre otro mensaje diferente y si esta entre 21 y 30 otro mensaje.

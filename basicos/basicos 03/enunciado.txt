@@ -1,0 +1,8 @@
+7. Mostrar con un while los números del 1 al 100
+
+8. Mostrar con un for los números del 1 al 100 
+
+9. Mostrar los caracteres de la cadena "Hola mundo"
+
+9. Mostrar los números pares entre 1 al 100
+

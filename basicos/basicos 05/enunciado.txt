@@ -1,0 +1,4 @@
+
+16. Pide dos cadenas por teclado, muestra ambas cadenas con un espacio entre ellas y con los 2 primeros caracteres intercambiados. Por ejemplo, hola mundo pasaria a mula hondo
+
+17. Pide una cadena e indica si es un palíndromo o no.

@@ -1,0 +1,3 @@
+21. Pinta una escalera con numeros.
+
+22. Pinta un triangulo de *

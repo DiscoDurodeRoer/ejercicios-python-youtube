@@ -1,0 +1,9 @@
+11. Generar un rango entre 0 y 10
+
+12. Generar un número entre 5 y 10
+
+13. Generar un rango de 10 a 0.
+
+14. Generar un rango de 0 a 10 y de 15 a 20, incluidos el 10 y 20
+
+15. Generar un rango desde 0 hasta la longitud de la cadena “Hola mundo”

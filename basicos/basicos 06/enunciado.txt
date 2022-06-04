@@ -1,0 +1,4 @@
+18. Juguemos al juego de adivinar el numero, generaremos un número entre 1 y 100.
+Nuestro objetivo es adivinar el número. 
+Si fallamos nos dirán si es mayor o menor que el número buscado.
+También poner el número de intentos requeridos.
