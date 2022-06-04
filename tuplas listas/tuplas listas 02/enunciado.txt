@@ -1,0 +1,4 @@
+
+4. Pide una cadena por teclado y metelo en una lista sin espacios.
+
+5. Pide una cadena por teclado y metelo en una lista pero sin caracteres repetidos.

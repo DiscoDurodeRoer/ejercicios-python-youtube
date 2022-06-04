@@ -1,0 +1,4 @@
+
+6. Crea una tupla con los meses del año, despues pide un numero entre 1 y 12 y muestra el mes que corresponde. Hasta que el usuario no meta un 0, el programa no acabara.
+
+7. Pide un numero por teclado y guarda en una lista los siguientes 5 multiplos. Muestra la lista. 

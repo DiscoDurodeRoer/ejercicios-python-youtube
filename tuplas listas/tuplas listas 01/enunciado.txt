@@ -1,0 +1,5 @@
+1. Crea una lista de de 10 posiciones que contenga los números del 1 al 10.
+
+2. Crea una tupla con valores ya predefinidos del 1 al 10, pide un indice por teclado y muestra los valores de la tupla.
+
+3. Crea una lista vacia (pongamos 10 posiciones), pide sus valores y devuelve la suma y la media de los números.
