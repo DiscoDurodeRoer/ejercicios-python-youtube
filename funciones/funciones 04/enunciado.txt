@@ -1,0 +1,7 @@
+7. Dada una cadena de texto, saca sus digitos e indica cuantos de ellos son pares.
+
+8. Pediremos 3 numeros por teclado y debemos meterlos en una lista, ordernarlo y mostrarlos.
+Una funcion para cargar, otra para ordenar y otra para mostrar.
+
+9. Crear funcion para cargar un empleado que le pediremos su nombre y sueldo, que se guardara en una tupla (ambos valores).
+Crea otra funcion para devolver quien de los dos empleados tiene el sueldo mas alto.

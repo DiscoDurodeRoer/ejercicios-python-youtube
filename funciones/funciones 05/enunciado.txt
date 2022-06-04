@@ -1,0 +1,35 @@
+10. Se dice que un número n es bueno si es igual a la suma de cada uno de sus dígitos elevados a k, donde k es el número de dígitos del número n. Por ejemplo, el 153 es bueno ya que tiene 3 dígitos y tenemos que 1 ** 3 + 5 ** 3 + 3 ** 3 = 1 + 125 + 27 = 153. 
+
+a) Diseña una función que nos diga el número de dígitos de un número. 
+
+La función recibe un número entero como parámetro y devuelve el número de dígitos de este número. Por ejemplo si pasamos el número 149 la función devuelve un 3 (el número de dígitos).
+
+def num_digits(n): 
+
+b) Diseña una función que nos dé un determinado dígito de un número dado. 
+
+La función recibe dos parámetros, el primer parámetro es un número entero y la otra es un número que indica el dígito que se quiere extraer. 
+
+El dígito 1 significa primer dígito (unidades), 2 significa segundo dígito (decenas), 3 significa tercer dígito (centenas) ... 
+
+def get_digit(num, d): 
+
+c) Diseña función bueno que dado un número nos diga si el número es bueno. 
+
+La función devuelve true si el número pasado por parámetro cumple la condición y false en caso contrario. Para escribir la función usa las dos funciones anteriores. 
+
+def is_good(num): 
+
+d) Diseña una función leer que lea de teclado un número entero positivo mayor a cero. 
+
+La función debe insistir si no se cumple la propiedad. La función devuelve el número leído. 
+
+La función no recibe ningún parámetro y devuelve el número leído de teclado que cumple la condición. 
+
+def read() 
+
+e) Escribe un programa que usando las funciones anteriores, lea dos enteros a y b para teclado, compruebe que los dos números son positivos, mayores a cero e insista si no es así.
+
+El programa tiene que escribir todos los números que son buenos entre a y b, ambos incluidos. 
+
+Hay que usar las funciones de los apartados anteriores. 

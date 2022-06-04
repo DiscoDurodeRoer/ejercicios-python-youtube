@@ -1,0 +1,8 @@
+1. Realiza una función que imprima "Hola mundo"
+
+2. Realiza una función que sume dos números pasados por parámetros.
+
+3. Realiza una función que indique si un número pasado por parámetro es par o impar.
+
+Todas estas funciones deben estar creadas en el fichero funciones.py y que se deben llamar 
+desde otro/s fichero/s

@@ -1,0 +1,3 @@
+5. Crea una función que calcule el factorial de un número pasado por parámetro
+
+6. Crea una función que dados dos números mostrará todos los números que hay entre ellos.

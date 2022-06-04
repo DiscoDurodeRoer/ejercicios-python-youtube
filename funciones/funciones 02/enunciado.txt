@@ -1,0 +1,1 @@
+4. Hacer una funcion que nos genere un numero aleatorio entre dos parametros pasados.
