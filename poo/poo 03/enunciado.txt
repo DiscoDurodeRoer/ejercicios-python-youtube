@@ -1,0 +1,9 @@
+3. Siguiendo con la clase pedido, añade la siguiente funcionalidad:
+    - aniadir_producto: le pasamos un producto y una cantidad,
+    añadira ese producto y esa cantidad a su respectiva lista.
+    Debemos validar que el dato que nos pasen es correcto, es decir,
+    que sea un producto y que la cantidad sea valida. En caso de que no,
+    devolver una excepción.
+    - eliminar_producto: le pasamos el producto a borrar, si existe, lo eliminamos.
+    Sino existe devolver una excepcion, indicandolo.
+    Comprobar tambien que es un producto lo que nos pasan.

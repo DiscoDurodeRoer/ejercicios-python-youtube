@@ -1,0 +1,9 @@
+4. Crea una clase Descuento que tiene los siguientes atributos:
+	- tipo: es un string y solo puede ser Fijo o Porcentaje
+	- valor: es un numero, si es fijo debe ser mayor que 0 y si es porcentaje el valor debe estar entre 1 y 100.
+Tiene la siguiente funcionalidad:
+	- aplicar_descuento(precio):
+		- Si el tipo es Fijo, se le resta la cantidad al precio
+		- Si el tipo es Procentaje, se le resta el porcentaje al precio
+Añadir este descuento al producto, este sera opcional y solo se aplicara si tiene descuento.
+Validar que el descuento se crea correctamente

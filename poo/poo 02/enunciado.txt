@@ -1,0 +1,6 @@
+2. Añadir una clase pedido que tiene como atributos:
+    - lista de productos
+    - lista de cantidades
+   Añade las siguiente funcionalidad:
+    - total_pedido: muestra el precio final del pedido
+    - mostrar_productos: muestra los productos del pedido

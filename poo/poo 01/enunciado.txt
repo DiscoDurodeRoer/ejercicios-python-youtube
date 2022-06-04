@@ -1,0 +1,5 @@
+1. Crear una Clase Producto con los siguientes atributos:
+	- codigo
+	- nombre
+	- precio 
+Creale, su constructor, getter y setter y una funcion llamada calcular_total, donde le pasaremos unas unidades y nos debe calcular el precio final.
